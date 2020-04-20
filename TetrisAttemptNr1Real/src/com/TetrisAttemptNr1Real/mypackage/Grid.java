@@ -1,4 +1,4 @@
-package com.TetrisAttemptNr1Real.mypackage;
+
 
 public class Grid {
 	private int x = 0;
